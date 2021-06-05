@@ -1,0 +1,86 @@
+Enter Number of Dice 
+1
+Enter End Point (Size of Board) 
+100
+Enter Number of Snakes on Board 
+9
+Enter Snakes Head and Tail
+62 5
+33 6
+49 9
+88 16
+41 20
+56 53
+98 64
+93 73
+95 75
+Enter Number of Ladders on Board 
+8
+Enter Ladder start and End 
+2 37
+27 46
+10 32
+51 68
+61 79
+65 84
+71 91
+81 100
+Enter Number of Player going to Play
+2
+Enter Player Names
+Gaurav
+Sagar
+Gaurav Got 3 Consecutive 6 , so his move got Cancelled
+Sagar rolled a 6 and moved from 0 to 6
+Sagar rolled a 4 and moved from 6 to 32
+Gaurav rolled a 2 and moved from 0 to 37
+Sagar rolled a 2 and moved from 32 to 34
+Gaurav rolled a 4 and moved from 37 to 20
+Sagar rolled a 3 and moved from 34 to 37
+Gaurav rolled a 3 and moved from 20 to 23
+Sagar rolled a 4 and moved from 37 to 20
+Gaurav Got 3 Consecutive 6 , so his move got Cancelled
+Sagar rolled a 2 and moved from 20 to 22
+Gaurav rolled a 1 and moved from 23 to 24
+Sagar rolled a 2 and moved from 22 to 24
+Gaurav rolled a 2 and moved from 24 to 26
+Sagar rolled a 6 and moved from 24 to 30
+Sagar rolled a 1 and moved from 30 to 31
+Gaurav rolled a 2 and moved from 26 to 28
+Sagar rolled a 3 and moved from 31 to 34
+Gaurav rolled a 1 and moved from 28 to 29
+Sagar rolled a 3 and moved from 34 to 37
+Gaurav rolled a 2 and moved from 29 to 31
+Sagar rolled a 3 and moved from 37 to 40
+Gaurav rolled a 2 and moved from 31 to 6
+Sagar rolled a 3 and moved from 40 to 43
+Gaurav rolled a 3 and moved from 6 to 9
+Sagar rolled a 3 and moved from 43 to 46
+Gaurav rolled a 2 and moved from 9 to 11
+Sagar rolled a 2 and moved from 46 to 48
+Gaurav rolled a 6 and moved from 11 to 17
+Gaurav rolled a 2 and moved from 17 to 19
+Sagar rolled a 6 and moved from 48 to 54
+Sagar rolled a 2 and moved from 54 to 53
+Gaurav rolled a 3 and moved from 19 to 22
+Sagar rolled a 6 and moved from 53 to 59
+Sagar rolled a 4 and moved from 59 to 63
+Gaurav rolled a 4 and moved from 22 to 26
+Sagar rolled a 2 and moved from 63 to 84
+Gaurav rolled a 4 and moved from 26 to 30
+Sagar rolled a 6 and moved from 84 to 90
+Sagar rolled a 1 and moved from 90 to 91
+Gaurav rolled a 2 and moved from 30 to 32
+Sagar rolled a 4 and moved from 91 to 75
+Gaurav rolled a 5 and moved from 32 to 37
+Sagar rolled a 3 and moved from 75 to 78
+Gaurav rolled a 1 and moved from 37 to 38
+Sagar rolled a 2 and moved from 78 to 80
+Gaurav rolled a 1 and moved from 38 to 39
+Sagar rolled a 1 and moved from 80 to 100
+Sagar Wins the Game
+Last Player left Gaurav
+Game Ends
+
+Process finished with exit code 0
+
